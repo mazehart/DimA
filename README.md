@@ -180,10 +180,6 @@ python plot_new.py
 python plot_ablation_control_vector.py
 ```
 
-## 📄 许可证
-
-本项目采用MIT许可证。详见LICENSE文件。
-
 ## 📞 联系
 
 如有问题或建议，请通过以下方式联系：
